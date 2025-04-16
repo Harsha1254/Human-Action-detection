@@ -24,4 +24,4 @@ The dataset is too large for GitHub. Download it using the link in [dataset.txt]
 - scikit-learn
 
 ## License
-[MIT License](LICENSE) (or specify your preferred license)
+[MIT License](LICENSE)
